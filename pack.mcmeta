@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": [
+      {
+        "text": "AntiMeat v72.1\n",
+        "color": "red",
+        "bold": true
+      },
+      {
+        "text": "by StellarayTeam\n",
+        "color": "gray"
+      },
+      {
+        "text": "Защита от читерства",
+        "color": "yellow"
+      }
+    ]
+  }
+}
